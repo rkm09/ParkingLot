@@ -1,3 +1,3 @@
-public interface Vehicle { }
+public interface Vehicle { /*marker interface*/ }
 
 
